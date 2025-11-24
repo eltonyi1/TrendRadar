@@ -1,6 +1,10 @@
 DeepSeek
 梁文锋
 
+阿里
+Qwen
+千问
+
 华为
 鸿蒙
 HarmonyOS
@@ -15,6 +19,11 @@ HarmonyOS
 腾讯
 网易
 游戏
+
+B站
+b站
+bilibili
+陈睿
 
 比亚迪
 王传福
@@ -82,6 +91,12 @@ ai
 
 台湾
 台海
+
+CPU
+GPU
+摩尔
+龙芯
+寒武纪
 
 芯片
 光刻机
